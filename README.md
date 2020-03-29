@@ -2,6 +2,8 @@
 
 # React-Native-Wechat
 
+forked from yorkie/react-native-wechat;修改了Calling bridge.imageLoader is deprecated问题
+
 [React Native] bridging library that integrates WeChat SDKs:
 
 - [x] iOS SDK 1.7.2
